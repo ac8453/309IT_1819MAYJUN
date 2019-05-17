@@ -62,3 +62,8 @@ H:\GitHub\309IT_1819MAYJUN\RazorPageTutorial\RazorPageTutorial\obj\Debug\netcore
 H:\GitHub\309IT_1819MAYJUN\RazorPageTutorial\RazorPageTutorial\obj\Debug\netcoreapp2.1\RazorPageTutorial.dll
 H:\GitHub\309IT_1819MAYJUN\RazorPageTutorial\RazorPageTutorial\obj\Debug\netcoreapp2.1\RazorPageTutorial.pdb
 H:\GitHub\309IT_1819MAYJUN\RazorPageTutorial\RazorPageTutorial\obj\Debug\netcoreapp2.1\RazorPageTutorial.csproj.CopyComplete
+H:\GitHub\309IT_1819MAYJUN\RazorPageTutorial\RazorPageTutorial\obj\Debug\netcoreapp2.1\Razor\Pages\Movies\Create.g.cshtml.cs
+H:\GitHub\309IT_1819MAYJUN\RazorPageTutorial\RazorPageTutorial\obj\Debug\netcoreapp2.1\Razor\Pages\Movies\Delete.g.cshtml.cs
+H:\GitHub\309IT_1819MAYJUN\RazorPageTutorial\RazorPageTutorial\obj\Debug\netcoreapp2.1\Razor\Pages\Movies\Details.g.cshtml.cs
+H:\GitHub\309IT_1819MAYJUN\RazorPageTutorial\RazorPageTutorial\obj\Debug\netcoreapp2.1\Razor\Pages\Movies\Edit.g.cshtml.cs
+H:\GitHub\309IT_1819MAYJUN\RazorPageTutorial\RazorPageTutorial\obj\Debug\netcoreapp2.1\Razor\Pages\Movies\Index.g.cshtml.cs
